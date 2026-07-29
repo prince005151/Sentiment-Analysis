@@ -1,3 +1,5 @@
+Application uri = https://sentiment-analysis-wm4vcnxzruysrhnzrftqw7.streamlit.app
+
 # Sentiment Analysis Project
 
 This project trains a reusable binary sentiment classifier from the supplied review dataset.
