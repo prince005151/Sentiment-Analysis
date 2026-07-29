@@ -47,3 +47,14 @@ python predict.py "The movie was wonderful and exciting"
 ```bash
 streamlit run app.py
 ```
+
+## Deploy On Streamlit Cloud
+
+Use this as the main file path:
+
+```text
+app.py
+```
+
+Make sure `models/sentiment_model.pkl` is included in the uploaded repository. The
+app only predicts with this saved model and does not train from the UI.

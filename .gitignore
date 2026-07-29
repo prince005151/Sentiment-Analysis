@@ -1,7 +1,8 @@
 __pycache__/
 *.py[cod]
 .venv/
-models/
+models/*
+!models/sentiment_model.pkl
 reports/
 .streamlit/
 *.log
